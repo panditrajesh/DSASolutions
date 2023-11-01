@@ -5,5 +5,7 @@ I thought to create this repository to collect the problems in one place, which 
 <br>
 1. Linear search 
 <br>
-2. Longest subarray with sum equal to k
+2. Length of the longest subarray with sum equal to k
+<br>
+3. Maximum subarray sum : KADANE'S ALGORITHM
 <br>
