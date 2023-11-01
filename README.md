@@ -4,8 +4,6 @@ This repository holds solution of some important coding problems
 I thought to create this repository to collect the problems in one place, which I'm solving during my preparation. It would be a future reference as well and it probably may help someone.
 <br>
 1. Linear search 
-<br>
 2. Length of the longest subarray with sum equal to k
-<br>
 3. Maximum subarray sum : KADANE'S ALGORITHM
 <br>
