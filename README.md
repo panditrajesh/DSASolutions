@@ -8,4 +8,5 @@ I thought to create this repository to collect the problems in one place, which 
 3. Maximum subarray sum : KADANE'S ALGORITHM
 4. Longest consecutive sequence  
 5. Two Sum
+6. Buy and Sell stock
 <br>
