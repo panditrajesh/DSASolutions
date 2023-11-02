@@ -18,10 +18,14 @@
 public class TwoSum {
     public static void main(String[] args) {
         int[] arr = { 2, 6, 5, 8, 11 };
-        int target = 12;
+        int target = 13;
         int n = arr.length; // output = YES
         String result = twoSum(arr, n, target);
-        System.out.println(result);
+        if (result == "YES") {
+            System.out.println("Pair exists here, whose sum is equal to the given value");
+        } else {
+            System.out.println("No such pair exists in this input array");
+        }
 
     }
 
