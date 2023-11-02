@@ -7,4 +7,5 @@ I thought to create this repository to collect the problems in one place, which 
 2. Length of the longest subarray with sum equal to k
 3. Maximum subarray sum : KADANE'S ALGORITHM
 4. Longest consecutive sequence  
+5. Two Sum
 <br>
