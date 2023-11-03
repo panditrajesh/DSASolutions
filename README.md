@@ -9,4 +9,7 @@ I thought to create this repository to collect the problems in one place, which 
 4. Longest consecutive sequence  
 5. Two Sum
 6. Buy and Sell stock
+7. Alternate numbers
+8. Majority element(n/2)
+9. Majority elements(n/3)
 <br>
