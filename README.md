@@ -12,4 +12,5 @@ I thought to create this repository to collect the problems in one place, which 
 7. Alternate numbers
 8. Majority element(n/2)
 9. Majority elements(n/3)
+10. Three sum
 <br>
